@@ -1,4 +1,4 @@
 XKBMODEL="pc105"
-XKBLAYOUT="us"
+XKBLAYOUT="gb"
 XKBVARIANT=""
 XKBOPTIONS="ctrl:nocaps"
